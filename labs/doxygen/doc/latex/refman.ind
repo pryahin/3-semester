@@ -1,0 +1,58 @@
+\begin{theindex}
+
+  \item {$\sim$\+Test}
+    \subitem {Test}, \hyperpage{6}
+
+  \indexspace
+
+  \item {Enum}
+    \subitem {Test}, \hyperpage{6}
+  \item {enum\+Ptr}
+    \subitem {Test}, \hyperpage{7}
+  \item {enum\+Var}
+    \subitem {Test}, \hyperpage{7}
+
+  \indexspace
+
+  \item {handler}
+    \subitem {Test}, \hyperpage{7}
+
+  \indexspace
+
+  \item {public\+Var}
+    \subitem {Test}, \hyperpage{7}
+
+  \indexspace
+
+  \item {source/test.\+h}, \hyperpage{9}
+
+  \indexspace
+
+  \item {Test}, \hyperpage{5}
+    \subitem {$\sim$\+Test}, \hyperpage{6}
+    \subitem {Enum}, \hyperpage{6}
+    \subitem {enum\+Ptr}, \hyperpage{7}
+    \subitem {enum\+Var}, \hyperpage{7}
+    \subitem {handler}, \hyperpage{7}
+    \subitem {public\+Var}, \hyperpage{7}
+    \subitem {Test}, \hyperpage{6}
+    \subitem {test\+Me}, \hyperpage{6}
+    \subitem {test\+Too}, \hyperpage{7}
+    \subitem {Val1}, \hyperpage{6}
+    \subitem {Val2}, \hyperpage{6}
+    \subitem {Val3}, \hyperpage{6}
+  \item {test\+Me}
+    \subitem {Test}, \hyperpage{6}
+  \item {test\+Too}
+    \subitem {Test}, \hyperpage{7}
+
+  \indexspace
+
+  \item {Val1}
+    \subitem {Test}, \hyperpage{6}
+  \item {Val2}
+    \subitem {Test}, \hyperpage{6}
+  \item {Val3}
+    \subitem {Test}, \hyperpage{6}
+
+\end{theindex}
