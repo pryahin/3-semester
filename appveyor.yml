@@ -20,7 +20,7 @@ before_build:
     - call "%VSCOMNTOOLS%\..\..\VC\vcvarsall.bat" %VCVARS_PLATFORM%
 
 build_script:
-  - cd test_catch
+  - cd labs/test_catch
   - mkdir build && cd build
   - cmake .. -G "NMake Makefiles"
   - nmake
